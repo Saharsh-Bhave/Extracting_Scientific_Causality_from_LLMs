@@ -1,0 +1,35 @@
+Annotate scientific papers based on their title and abstract which will be provided. For each paper:
+Write a concise 1-2 sentence conclusion.
+Determine causality from the conclusion. Yes if causal, else no.
+If not causal, classify relation type from the following:
+Correlation
+Description
+Hypothesis
+Association
+mechanistic/theory
+measurement/method.
+
+Examples:
+Sample-input1 -
+Title: Phosphorylation induced cochaperone unfolding promotes kinase recruitment and client class-specific Hsp90 phosphorylation.
+Abstract:During the Hsp90-mediated chaperoning of protein kinases, the core components of the machinery, Hsp90 and the cochaperone Cdc37, recycle between different phosphorylation states that regulate progression of the chaperone cycle. We show that Cdc37 phosphorylation at Y298 results in partial unfolding of the C-terminal domain and the population of folding intermediates. Unfolding facilitates Hsp90 phosphorylation at Y197 by unmasking a phosphopeptide sequence, which serves as a docking site to recruit non-receptor tyrosine kinases to the chaperone complex via their SH2 domains. In turn, Hsp90 phosphorylation at Y197 specifically regulates its interaction with Cdc37 and thus affects the chaperoning of only protein kinase clients. In summary, we find that by providing client class specificity, Hsp90 cochaperones such as Cdc37 do not merely assist in client recruitment but also shape the post-translational modification landscape of Hsp90 in a client class-specific manner.
+Sample-output1 -
+Conclusion:Cdc37 phosphorylation at Y298 results in partial unfolding which facilitates Hsp90 phosphorylation at Y197, regulating interaction with Cdc37 and affecting the chaperoning of only protein kinase clients.
+Causality:Yes
+Relation Type: -
+
+Sample-input2 -
+Title:Identification and characterization of functional homologs of nitrogenase cofactor biosynthesis protein NifB from methanogens.
+Abstract:Nitrogenase biosynthesis protein NifB catalyzes the radical S-adenosyl-L-methionine (SAM)-dependent insertion of carbide into the M cluster, the cofactor of the molybdenum nitrogenase from Azotobacter vinelandii. Here, we report the identification and characterization of two naturally "truncated" homologs of NifB from Methanosarcina acetivorans (NifB(Ma)) and Methanobacterium thermoautotrophicum (NifB(Mt)), which contain a SAM-binding domain at the N terminus but lack a domain toward the C terminus that shares homology with NifX, an accessory protein in M cluster biosynthesis. NifB(Ma) and NifB(Mt) are monomeric proteins containing a SAM-binding [Fe4S4] cluster (designated the SAM cluster) and a [Fe4S4]-like cluster pair (designated the K cluster) that can be processed into an [Fe8S9] precursor to the M cluster (designated the L cluster). Further, the K clusters in NifB(Ma) and NifB(Mt) can be converted to L clusters upon addition of SAM, which corresponds to their ability to heterologously donate L clusters to the biosynthetic machinery of A. vinelandii for further maturation into the M clusters. Perhaps even more excitingly, NifB(Ma) and NifB(Mt) can catalyze the removal of methyl group from SAM and the abstraction of hydrogen from this methyl group by 5'-deoxyadenosyl radical that initiates the radical-based incorporation of methyl-derived carbide into the M cluster. The successful identification of NifB(Ma) and NifB(Mt) as functional homologs of NifB not only enabled classification of a new subset of radical SAM methyltransferases that specialize in complex metallocluster assembly, but also provided a new tool for further characterization of the distinctive, NifB-catalyzed methyl transfer and conversion to an iron-bound carbide.
+Sample-output2:
+Conclusion:Methanogen NifB homologs function as truncated radical SAM enzymes that insert carbide into nitrogenase M-cluster precursors without the NifX-like domain.
+Causality: No
+Relation Type: Mechanistic/Theory
+
+Sample-input3 -
+Title:A Vaccinia-based system for directed evolution of GPCRs in mammalian cells.
+Abstract:Directed evolution in bacterial or yeast display systems has been successfully used to improve stability and expression of G protein-coupled receptors for structural and biophysical studies. Yet, several receptors cannot be tackled in microbial systems due to their complex molecular composition or unfavorable ligand properties. Here, we report an approach to evolve G protein-coupled receptors in mammalian cells. To achieve clonality and uniform expression, we develop a viral transduction system based on Vaccinia virus. By rational design of synthetic DNA libraries, we first evolve neurotensin receptor 1 for high stability and expression. Second, we demonstrate that receptors with complex molecular architectures and large ligands, such as the parathyroid hormone 1 receptor, can be readily evolved. Importantly, functional receptor properties can now be evolved in the presence of the mammalian signaling environment, resulting in receptor variants exhibiting increased allosteric coupling between the ligand binding site and the G protein interface. Our approach thus provides insights into the intricate molecular interplay required for GPCR activation.
+Sample-Output3 -
+Conclusion:A viral transduction system based on Vaccinia virus which involves first evolving neurotensin receptor, then showing complex receptors can be readily evolved is developed to achieve clonality.
+Causality: No
+Relation Type: Measurement/Method

@@ -1,0 +1,28 @@
+Annotate scientific papers based on their title and abstract which will be provided. For each paper:
+Write a concise 1-2 sentence conclusion.
+Determine causality from the conclusion. Yes if causal, else no.
+If not causal, classify relation type from the following:
+Correlation
+Description
+Hypothesis
+Association
+mechanistic/theory
+measurement/method.
+
+The conclusion must include; main finding/result, nature of the relationship found, Key entities/molecules involved.
+The conclusion must avoid; Excessive methodological detail, Speculative language not supported by the abstract.
+
+To determine causality use the following questions:
+Is there an identifiable agent/cause? (e.g., a molecule, mutation, process)
+Is there an identifiable effect/outcome? (e.g., a change in activity, biological consequence)
+Does the conclusion state or imply the cause PRODUCES the effect?
+Is the causal directionality clear? (X → Y, not just "X and Y are related")
+
+Input format will be:
+Title:
+Abstract:
+
+Output format:
+Conclusion:
+Causality(Yes/No):
+Relation Type(if and only if causality = No):
