@@ -1,0 +1,10 @@
+Combination,Causal_Errors,Causal_Total,Causal_Error_Rate,Relation_Errors,Relation_Total,Relation_Error_Rate
+Claude Few-Shot,31,140,0.2214,17,53,0.3208
+Claude Role-Based,33,140,0.2357,14,47,0.2979
+Claude Zero-Shot,35,140,0.25,37,49,0.7551
+GPT4 Few-Shot,41,140,0.2929,20,43,0.4651
+Gemini Few-Shot,54,139,0.3885,11,31,0.3548
+GPT4 Role-Based,59,140,0.4214,14,20,0.7
+GPT4 Zero-Shot,64,140,0.4571,12,16,0.75
+Gemini Role-Based,65,139,0.4676,10,17,0.5882
+Gemini Zero-Shot,71,139,0.5108,7,12,0.5833

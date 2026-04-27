@@ -1,0 +1,5 @@
+Discipline,Total_Papers,Causal_Easy,Causal_Ambiguous,Causal_Systematic_Failure,NonCausal_Papers,Relation_Easy,Relation_Ambiguous,Relation_Systematic_Failure
+Biomedical Engineering,50,15,20,15,38,0,29,0
+Molecular Biology / Genetics,30,18,4,8,10,1,7,1
+Cancer Biology,30,23,6,1,4,0,3,0
+Chemistry,30,4,24,2,22,0,21,1

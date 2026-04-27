@@ -1,0 +1,11 @@
+Rank,Combination,F1_Causal,F1_Relation,Avg_F1
+1,Claude Few-Shot,0.7782,0.6821,0.7302
+2,Claude Role-Based,0.761,0.6752,0.7181
+–,⭐ Ensemble (Majority Vote),0.6646,0.6133,0.6389
+3,GPT4 Few-Shot,0.703,0.4894,0.5962
+4,Gemini Few-Shot,0.5963,0.5924,0.5943
+5,Claude Zero-Shot,0.7487,0.3012,0.5249
+6,Gemini Role-Based,0.4807,0.3557,0.4182
+7,Gemini Zero-Shot,0.4207,0.4083,0.4145
+8,GPT4 Role-Based,0.5313,0.2968,0.4141
+9,GPT4 Zero-Shot,0.4836,0.1917,0.3377

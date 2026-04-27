@@ -1,0 +1,142 @@
+num,title,discipline,manual_causal,manual_relation_type,causal_majority_vote,causal_agreement_count,causal_category,relation_majority_vote,relation_agreement_count,relation_category
+1.0,A protein complex regulates RNA processing of intronic heterochromatin-containing genes in Arabidopsis.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+2.0,A small molecule antagonist of SMN disrupts the interaction between SMN and RNAP II.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+3.0,Chromatin compartmentalization regulates the response to DNA damage.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+4.0,MRG15 is required for pre-mRNA splicing and spermatogenesis.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+5.0,Alternative splicing modulation by G-quadruplexes.,Molecular Biology / Genetics,yes,correlation,yes,5,Ambiguous,,0,N/A
+6.0,CMG2/ANTXR2 regulates extracellular collagen VI which accumulates in hyaline fibromatosis syndrome.,Molecular Biology / Genetics,yes,,yes,8,Easy,,0,N/A
+7.0,MCM2 promotes symmetric inheritance of modified histones during DNA replication.,Molecular Biology / Genetics,yes,,yes,8,Easy,,0,N/A
+8.0,"An atlas of amyloid aggregation: the impact of substitutions, insertions, deletions and truncations on amyloid beta fibril nucleation.",Molecular Biology / Genetics,yes,,no,7,Systematic Failure,,0,N/A
+9.0,"Loss-of-function, gain-of-function and dominant-negative mutations have profoundly different effects on protein structure.",Molecular Biology / Genetics,no,mechanistic/theory,no,8,Easy,description,4,Ambiguous
+10.0,Caenorhabditis elegans period homolog lin-42 regulates the timing of heterochronic miRNA expression.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+11.0,Distinct DNA repair pathways cause genomic instability at alternative DNA structures.,Molecular Biology / Genetics,yes,,yes,8,Easy,,0,N/A
+12.0,CATACOMB: An endogenous inducible gene that antagonizes H3K27 methylation activity of Polycomb repressive complex 2 via an H3K27M-like mechanism.,Molecular Biology / Genetics,yes,,yes,8,Easy,,0,N/A
+13.0,Negative regulator of E2F transcription factors links cell cycle checkpoint and DNA damage repair.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+14.0,RAP80 and BRCA1 PARsylation protect chromosome integrity by preventing retention of BRCA1-B/C complexes in DNA repair foci.,Molecular Biology / Genetics,no,association,yes,9,Systematic Failure,,0,Unknown
+15.0,The NuRD complex cooperates with SALL4 to orchestrate reprogramming.,Molecular Biology / Genetics,no,mechanistic/theory,yes,7,Systematic Failure,description,1,Ambiguous
+16.0,Ubiquitin-induced RNF168 condensation promotes DNA double-strand break repair.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+17.0,Progressive increase in mtDNA 3243A>G heteroplasmy causes abrupt transcriptional reprogramming.,Molecular Biology / Genetics,yes,,yes,9,Easy,,0,N/A
+18.0,Resolution of single and double Holliday junction recombination intermediates by GEN1.,Molecular Biology / Genetics,no,mechanistic/theory,no,5,Ambiguous,mechanistic/theory,3,Ambiguous
+19.0,Cdc14 phosphatase counteracts Cdk-dependent Dna2 phosphorylation to inhibit resection during recombinational DNA repair.,Molecular Biology / Genetics,yes,,yes,8,Easy,,0,N/A
+20.0,Comprehensive 3D epigenomic maps define limbal stem/progenitor cell function and identity.,Molecular Biology / Genetics,yes,mechanistic/theory,no,7,Systematic Failure,,0,N/A
+21.0,EBF1 is continuously required for stabilizing local chromatin accessibility in pro-B cells.,Molecular Biology / Genetics,yes,,yes,8,Easy,,0,N/A
+22.0,Discovery of widespread transcription initiation at microsatellites predictable by sequence-based deep neural network.,Molecular Biology / Genetics,no,mechanistic/theory,no,8,Easy,description,3,Ambiguous
+23.0,Quantitative imaging of transcription in living Drosophila embryos reveals the impact of core promoter motifs on promoter state dynamics.,Molecular Biology / Genetics,yes,,no,5,Ambiguous,,0,N/A
+24.0,Molecular indexing enables quantitative targeted RNA sequencing and reveals poor efficiencies in standard library preparations.,Molecular Biology / Genetics,yes,,no,7,Systematic Failure,,0,N/A
+25.0,Implementation of the CRISPR-Cas9 system in fission yeast.,Molecular Biology / Genetics,yes,,no,7,Systematic Failure,,0,N/A
+26.0,Chromatin states shaped by an epigenetic code confer regenerative potential to the mouse liver.,Molecular Biology / Genetics,no,mechanistic/theory,yes,6,Ambiguous,description,2,Ambiguous
+27.0,RecA filament maintains structural integrity using ATP-driven internal dynamics.,Molecular Biology / Genetics,no,mechanistic/theory,yes,8,Systematic Failure,mechanistic/theory,1,Ambiguous
+28.0,Complementation between polymerase- and exonuclease-deficient mitochondrial DNA polymerase mutants in genomically engineered flies.,Molecular Biology / Genetics,no,measurement/method,yes,7,Systematic Failure,mechanistic/theory,2,Ambiguous
+29.0,Evolutionary conservation of the fidelity of transcription.,Molecular Biology / Genetics,no,description,no,9,Easy,description,8,Easy
+30.0,Transcriptional divergence and conservation of human and mouse erythropoiesis.,Molecular Biology / Genetics,no,mechanistic/theory,no,8,Easy,description,7,Systematic Failure
+31.0,"Electrically compensated, tattoo-like electrodes for epidermal electrophysiology at scale.",Biomedical Engineering,no,measurement/method,no,5,Ambiguous,measurement/method,4,Ambiguous
+32.0,Surface-directed engineering of tissue anisotropy in microphysiological models of musculoskeletal tissue.,Biomedical Engineering,no,measurement/method,yes,9,Systematic Failure,,0,Unknown
+33.0,Metabolite-induced in vivo fabrication of substrate-free organic bioelectronics.,Biomedical Engineering,no,measurement/method,yes,8,Systematic Failure,measurement/method,1,Ambiguous
+34.0,Drug capture materials based on genomic DNA-functionalized magnetic nanoparticles.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+35.0,Concomitant control of mechanical properties and degradation in resorbable elastomer-like materials using stereochemistry and stoichiometry for soft tissue engineering.,Biomedical Engineering,no,measurement/method,yes,9,Systematic Failure,,0,Unknown
+36.0,Porous carbon nanowire array for surface-enhanced Raman spectroscopy.,Biomedical Engineering,no,measurement/method,no,5,Ambiguous,measurement/method,4,Ambiguous
+37.0,Masticatory system-inspired microneedle theranostic platform for intelligent and precise diabetic management.,Biomedical Engineering,no,measurement/method,yes,6,Ambiguous,measurement/method,2,Ambiguous
+38.0,Doping-induced assembly interface for noninvasive in vivo local and systemic immunomodulation.,Biomedical Engineering,no,description,yes,9,Systematic Failure,,0,Unknown
+39.0,A non-printed integrated-circuit textile for wireless theranostics.,Biomedical Engineering,no,measurement/method,no,7,Easy,measurement/method,4,Ambiguous
+40.0,Engineered exosomes reprogram Gli1<sup>+</sup> cells in vivo to prevent calcification of vascular grafts and autologous pathological vessels.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+41.0,Therapy using implanted organic bioelectronics.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+42.0,A brain-computer interface that evokes tactile sensations improves robotic arm control.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+43.0,Skin-like biosensor system via electrochemical channels for noninvasive blood glucose monitoring.,Biomedical Engineering,no,mechanistic/theory,no,8,Easy,measurement/method,4,Ambiguous
+44.0,High-strength and fibrous capsule-resistant zwitterionic elastomers.,Biomedical Engineering,no,measurement/method,yes,8,Systematic Failure,description,1,Ambiguous
+45.0,Bioinspired liquid gating membrane-based catheter with anticoagulation and positionally drug release properties.,Biomedical Engineering,no,measurement/method,yes,6,Ambiguous,measurement/method,2,Ambiguous
+46.0,Artificial neuromuscular fibers by multilayered coaxial integration with dynamic adaption.,Biomedical Engineering,no,measurement/method,yes,5,Ambiguous,measurement/method,3,Ambiguous
+47.0,Spatially and optically tailored 3D printing for highly miniaturized and integrated microfluidics.,Biomedical Engineering,no,measurement/method,no,5,Ambiguous,measurement/method,4,Ambiguous
+48.0,Soft strain-insensitive bioelectronics featuring brittle materials.,Biomedical Engineering,no,measurement/method,yes,9,Systematic Failure,,0,Unknown
+49.0,A conducting polymer with enhanced electronic stability applied in cardiac models.,Biomedical Engineering,no,measurement/method,yes,9,Systematic Failure,,0,Unknown
+50.0,Chiral DOTA chelators as an improved platform for biomedical imaging and therapy applications.,Biomedical Engineering,no,association,yes,9,Systematic Failure,,0,Unknown
+51.0,All-fiber high-speed image detection enabled by deep learning.,Biomedical Engineering,no,measurement/method,no,5,Ambiguous,measurement/method,4,Ambiguous
+52.0,Rheotaxis-based separation of sperm with progressive motility using a microfluidic corral system.,Biomedical Engineering,no,measurement/method,yes,7,Systematic Failure,measurement/method,2,Ambiguous
+53.0,Bacterial outer membrane vesicle nanorobot.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+54.0,Multivascular networks and functional intravascular topologies within biocompatible hydrogels.,Biomedical Engineering,no,measurement/method,yes,5,Ambiguous,measurement/method,4,Ambiguous
+55.0,Ultrafast self-gelling powder mediates robust wet adhesion to promote healing of gastrointestinal perforations.,Biomedical Engineering,no,description,yes,9,Systematic Failure,,0,Unknown
+56.0,Characterization of a pluripotent stem cell-derived matrix with powerful osteoregenerative capabilities.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+57.0,"Perfusion, cryopreservation, and nanowarming of whole hearts using colloidally stable magnetic cryopreservation agent solutions.",Biomedical Engineering,no,measurement/method,yes,5,Ambiguous,measurement/method,3,Ambiguous
+58.0,Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels.,Biomedical Engineering,no,mechanistic/theory,no,5,Ambiguous,measurement/method,4,Ambiguous
+59.0,Flexible ultrasound-induced retinal stimulating piezo-arrays for biomimetic visual prostheses.,Biomedical Engineering,no,measurement/method,yes,6,Ambiguous,measurement/method,2,Ambiguous
+60.0,Bioinspired porous three-coordinated single-atom Fe nanozyme with oxidase-like activity for tumor visual identification via glutathione.,Biomedical Engineering,yes,,yes,7,Easy,,0,N/A
+61.0,Targeted erythropoietin selectively stimulates red blood cell expansion in vivo.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+62.0,Intercalated water layers promote thermal dissipation at bio-nano interfaces.,Biomedical Engineering,no,mechanistic/theory,yes,8,Systematic Failure,mechanistic/theory,1,Ambiguous
+63.0,Exfoliated near infrared fluorescent silicate nanosheets for (bio)photonics.,Biomedical Engineering,no,measurement/method,no,6,Ambiguous,description,3,Ambiguous
+64.0,Digital immunoassay for biomarker concentration quantification using solid-state nanopores.,Biomedical Engineering,no,measurement/method,no,6,Ambiguous,measurement/method,5,Ambiguous
+65.0,Bioinspired two-in-one nanotransistor sensor for the simultaneous measurements of electrical and mechanical cellular responses.,Biomedical Engineering,no,measurement/method,no,6,Ambiguous,measurement/method,5,Ambiguous
+66.0,Design and synthesis of a small molecular NIR-II chemiluminescence probe for in vivo-activated H<sub>2</sub>S imaging.,Biomedical Engineering,no,measurement/method,yes,6,Ambiguous,measurement/method,3,Ambiguous
+67.0,A biomimetic platelet based on assembling peptides initiates artificial coagulation.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+68.0,Stretchable silicon nanoribbon electronics for skin prosthesis.,Biomedical Engineering,no,measurement/method,no,5,Ambiguous,measurement/method,3,Ambiguous
+69.0,non-metallic T<sub>2</sub>-MRI agents based on conjugated polymers.,Biomedical Engineering,no,measurement/method,no,5,Ambiguous,measurement/method,4,Ambiguous
+70.0,Knitting and weaving artificial muscles.,Biomedical Engineering,no,mechanistic/theory,yes,9,Systematic Failure,,0,Unknown
+71.0,A SVM Method for Continuous Blood Pressure Estimation from a PPG Signal,Biomedical Engineering,no,measurement/method,no,7,Easy,measurement/method,6,Ambiguous
+72.0,Ferromagnetic soft catheter robots for minimally invasive bioprinting.,Biomedical Engineering,no,measurement/method,yes,6,Ambiguous,measurement/method,3,Ambiguous
+73.0,Fully implantable wireless batteryless vascular electronics with printed soft sensors for multiplex sensing of hemodynamics.,Biomedical Engineering,no,measurement/method,no,6,Ambiguous,measurement/method,5,Ambiguous
+74.0,Background-suppressed tumor-targeted photoacoustic imaging using bacterial carriers.,Biomedical Engineering,no,measurement/method,yes,8,Systematic Failure,measurement/method,1,Ambiguous
+75.0,Low immunogenicity of LNP allows repeated administrations of CRISPR-Cas9 mRNA into skeletal muscle in mice.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+76.0,Functional vascularized lung grafts for lung bioengineering.,Biomedical Engineering,no,mechanistic/theory,yes,9,Systematic Failure,,0,Unknown
+77.0,NIR-dye bridged human serum albumin reassemblies for effective photothermal therapy of tumor.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+78.0,Small near-infrared photochromic protein for photoacoustic multi-contrast imaging and detection of protein interactions in vivo.,Biomedical Engineering,no,measurement/method,yes,5,Ambiguous,measurement/method,3,Ambiguous
+79.0,Engineering hydrogels with homogeneous mechanical properties for controlling stem cell lineage specification.,Biomedical Engineering,yes,,yes,9,Easy,,0,N/A
+80.0,Intracellular action potential recordings from cardiomyocytes by ultrafast pulsed laser irradiation of fuzzy graphene microelectrodes.,Biomedical Engineering,no,measurement/method,yes,8,Systematic Failure,measurement/method,1,Ambiguous
+81.0,Cancer-derived exosomal miR-25-3p promotes pre-metastatic niche formation by inducing vascular permeability and angiogenesis.,Cancer Biology,yes,,yes,6,Ambiguous,,0,N/A
+82.0,Tumor to normal single-cell mRNA comparisons reveal a pan-neuroblastoma cancer cell.,Cancer Biology,no,mechanistic/theory,no,6,Ambiguous,description,6,Ambiguous
+83.0,Collective cell migration and metastases induced by an epithelial-to-mesenchymal transition in Drosophila intestinal tumors.,Cancer Biology,yes,,yes,6,Ambiguous,,0,N/A
+84.0,The TINCR ubiquitin-like microprotein is a tumor suppressor in squamous cell carcinoma.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+85.0,Subtype-specific collaborative transcription factor networks are promoted by OCT4 in the progression of prostate cancer.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+86.0,Allosteric inhibition of SHP2 phosphatase inhibits cancers driven by receptor tyrosine kinases.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+87.0,GPRC5A suppresses protein synthesis at the endoplasmic reticulum to prevent radiation-induced lung tumorigenesis.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+88.0,Glucocorticoid receptor signalling activates YAP in breast cancer.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+89.0,The FBXW2-MSX2-SOX2 axis regulates stem cell property and drug resistance of cancer cells.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+90.0,"FOXA1 mutations alter pioneering activity, differentiation and prostate cancer phenotypes.",Cancer Biology,yes,,yes,9,Easy,,0,N/A
+91.0,Wnt activator FOXB2 drives the neuroendocrine differentiation of prostate cancer.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+92.0,EphB4 and ephrinB2 act in opposition in the head and neck tumor microenvironment.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+93.0,Control of CCND1 ubiquitylation by the catalytic SAGA subunit USP22 is essential for cell cycle progression through G1 in cancer cells.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+94.0,Alu-dependent RNA editing of GLI1 promotes malignant regeneration in multiple myeloma.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+95.0,Netrin-1 exerts oncogenic activities through enhancing yes-associated protein stability.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+96.0,The whole-genome landscape of medulloblastoma subtypes.,Cancer Biology,no,mechanistic/theory,no,6,Ambiguous,description,6,Ambiguous
+97.0,Oncogenic β-catenin stimulation of AKT2-CAD-mediated pyrimidine synthesis is targetable vulnerability in liver cancer.,Cancer Biology,yes,,yes,6,Ambiguous,,0,N/A
+98.0,EGFR feedback-inhibition by Ran-binding protein 6 is disrupted in cancer.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+99.0,ARID1A loss in neuroblastoma promotes the adrenergic-to-mesenchymal transition by regulating enhancer-mediated gene expression.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+100.0,Inhibiting androgen receptor splice variants with cysteine-selective irreversible covalent inhibitors to treat prostate cancer.,Cancer Biology,yes,,yes,8,Easy,,0,N/A
+101.0,Miat and interacting protein Metadherin maintain a stem-like niche to promote medulloblastoma tumorigenesis and treatment resistance.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+102.0,An unexpected role for p53 in regulating cancer cell-intrinsic PD-1 by acetylation.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+103.0,"BRK phosphorylates SMAD4 for proteasomal degradation and inhibits tumor suppressor FRK to control SNAIL, SLUG, and metastatic potential.",Cancer Biology,yes,,yes,9,Easy,,0,N/A
+104.0,Homeobox NKX2-3 promotes marginal-zone lymphomagenesis by activating B-cell receptor signalling and shaping lymphocyte dynamics.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+105.0,Polycomb proteins control proliferation and transformation independently of cell cycle checkpoints by regulating DNA replication.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+106.0,ROCK1 mechano-signaling dependency of human malignancies driven by TEAD/YAP activation.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+107.0,USP25 promotes pathological HIF-1-driven metabolic reprogramming and is a potential therapeutic target in pancreatic cancer.,Cancer Biology,no,mechanistic/theory,yes,9,Systematic Failure,,0,Unknown
+108.0,SOD3 improves the tumor response to chemotherapy by stabilizing endothelial HIF-2α.,Cancer Biology,yes,,yes,9,Easy,,0,N/A
+109.0,"The GAS6-AXL signaling pathway triggers actin remodeling that drives membrane ruffling, macropinocytosis, and cancer-cell invasion.",Cancer Biology,yes,,yes,9,Easy,,0,N/A
+110.0,Chronic centrosome amplification without tumorigenesis.,Cancer Biology,no,mechanistic/theory,yes,6,Ambiguous,mechanistic/theory,2,Ambiguous
+111.0,One-shot K-region-selective annulative π-extension for nanographene synthesis and functionalization.,Chemistry,no,measurement/method,no,6,Ambiguous,mechanistic/theory,3,Ambiguous
+112.0,Automatic mapping of atoms across both simple and complex chemical reactions.,Chemistry,no,measurement/method,no,6,Ambiguous,measurement/method,6,Ambiguous
+113.0,Ligand-enabled Ni-catalyzed hydroarylation and hydroalkenylation of internal alkenes with organoborons.,Chemistry,yes,,yes,5,Ambiguous,,0,N/A
+114.0,Identification of a prismatic P<sub>3</sub>N<sub>3</sub> molecule formed from electron irradiated phosphine-nitrogen ices.,Chemistry,yes,,yes,7,Easy,,0,N/A
+115.0,Rapid planning and analysis of high-throughput experiment arrays for reaction discovery.,Chemistry,no,description,no,6,Ambiguous,measurement/method,6,Ambiguous
+116.0,Structural and spectroscopic characterization of an einsteinium complex.,Chemistry,no,mechanistic/theory,no,9,Easy,measurement/method,7,Systematic Failure
+117.0,Naked d-orbital in a centrochiral Ni(II) complex as a catalyst for asymmetric [3+2] cycloaddition.,Chemistry,yes,,yes,6,Ambiguous,,0,N/A
+118.0,Coordinating activation strategy for C(sp(3))-H/C(sp(3))-H cross-coupling to access β-aromatic α-amino acids.,Chemistry,no,measurement/method,yes,6,Ambiguous,measurement/method,3,Ambiguous
+119.0,Brønsted acid-enhanced copper-catalyzed atroposelective cycloisomerization to axially chiral arylquinolizones via dearomatization of pyridine.,Chemistry,yes,,yes,8,Easy,,0,N/A
+120.0,Synthesis of N-acyl sulfenamides via copper catalysis and their use as S-sulfenylating reagents of thiols.,Chemistry,no,measurement/method,yes,5,Ambiguous,measurement/method,4,Ambiguous
+121.0,Metal-free electrochemical dihydroxylation of unactivated alkenes.,Chemistry,no,description,yes,5,Ambiguous,measurement/method,3,Ambiguous
+122.0,Digitizing chemical discovery with a Bayesian explorer for interpreting reactivity data.,Chemistry,no,measurement/method,no,6,Ambiguous,measurement/method,6,Ambiguous
+123.0,Photoswitchable dynamic conjugate addition-elimination reactions as a tool for light-mediated click and clip chemistry.,Chemistry,no,mechanistic/theory,yes,6,Ambiguous,measurement/method,3,Ambiguous
+124.0,Autocatalytic and oscillatory reaction networks that form guanidines and products of their cyclization.,Chemistry,no,mechanistic/theory,yes,6,Ambiguous,mechanistic/theory,3,Ambiguous
+125.0,Defying decomposition: the curious case of choline chloride.,Chemistry,no,hypothesis,no,6,Ambiguous,measurement/method,4,Ambiguous
+126.0,Rhodium hydride enabled enantioselective intermolecular C-H silylation to access acyclic stereogenic Si-H.,Chemistry,yes,,yes,6,Ambiguous,,0,N/A
+127.0,A dual-catalysis approach to enantioselective [2 + 2] photocycloadditions using visible light.,Chemistry,yes,,yes,8,Easy,,0,N/A
+128.0,When immiscible becomes miscible-Methane in water at high pressures.,Chemistry,yes,,yes,5,Ambiguous,,0,N/A
+129.0,Confinement effects and acid strength in zeolites.,Chemistry,yes,,no,5,Ambiguous,,0,N/A
+130.0,Ligand relay catalysis for cobalt-catalyzed sequential hydrosilylation and hydrohydrazidation of terminal alkynes.,Chemistry,no,mechanistic/theory,yes,7,Systematic Failure,measurement/method,1,Ambiguous
+131.0,The dicarbon bonding puzzle viewed with photoelectron imaging.,Chemistry,no,measurement/method,no,6,Ambiguous,mechanistic/theory,4,Ambiguous
+132.0,A redox-neutral catechol synthesis.,Chemistry,no,mechanistic/theory,no,5,Ambiguous,measurement/method,3,Ambiguous
+133.0,Nineteen-step total synthesis of (+)-phorbol.,Chemistry,no,mechanistic/theory,no,5,Ambiguous,measurement/method,5,Ambiguous
+134.0,Self-assembled conjoined-cages.,Chemistry,no,mechanistic/theory,no,6,Ambiguous,description,4,Ambiguous
+135.0,Capturing the generation and structural transformations of molecular ions.,Chemistry,no,measurement/method,no,5,Ambiguous,measurement/method,4,Ambiguous
+136.0,"Synthesis, structural analysis, and properties of highly twisted alkenes 13,13'-bis(dibenzo[a,i]fluorenylidene) and its derivatives.",Chemistry,no,measurement/method,no,6,Ambiguous,measurement/method,3,Ambiguous
+137.0,Predicting reaction performance in C-N cross-coupling using machine learning.,Chemistry,no,measurement/method,no,6,Ambiguous,measurement/method,6,Ambiguous
+138.0,Retrosynthesis of multi-component metal-organic frameworks.,Chemistry,no,measurement/method,no,6,Ambiguous,measurement/method,6,Ambiguous
+139.0,Exploring the performance of nanostructured reagents with organic-group-defined morphology in cross-coupling reaction.,Chemistry,no,mechanistic/theory,yes,5,Ambiguous,mechanistic/theory,2,Ambiguous
+140.0,Control of chemoselectivity in asymmetric tandem reactions: Direct synthesis of chiral amines bearing nonadjacent stereocenters.,Chemistry,no,description,yes,8,Systematic Failure,mechanistic/theory,1,Ambiguous
+,,,,,yes,3,Unknown,,0,N/A
