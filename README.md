@@ -98,4 +98,6 @@ The project also contributes to understanding the limitations of modern LLMs in 
 ## Contributors
 
 * Saharsh Bhave
+* Tirth Shah
+* Siddharth Bhattacharjee
 * Research Team under Dr. Xuan Lu
